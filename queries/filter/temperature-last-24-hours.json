@@ -1,0 +1,23 @@
+// Resultados del siguiente query
+/*const since = new Date(Date.now() - 24*60*60*1000);
+db.sensor.find({ timestamp: { $gte: since } });*/
+{
+  "_id": {
+    "$oid": "691bd2d924387e4a17c37862"
+  },
+  "sensorId": "sensor-001",
+  "timestamp": "2025-11-17T19:45:00.000Z",
+  "temperature": 23.7,
+  "unit": "C",
+  "location": {
+    "room": "Laboratorio 1",
+    "lat": 4.659,
+    "lon": -74.093
+  },
+  "status": "ok",
+  "battery": 87,
+  "metadata": {
+    "firmware": "v1.2.3",
+    "sampleRateSeconds": 60
+  }
+}
