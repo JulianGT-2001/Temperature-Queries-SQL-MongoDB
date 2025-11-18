@@ -1,0 +1,1902 @@
+[
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:58:24.172625Z"
+    },
+    "temperature": 23.74,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.6545275168522595,
+      "lon": -74.09509832154997
+    },
+    "status": "warn",
+    "battery": 72,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:57:24.172625Z"
+    },
+    "temperature": 24.8,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.656962083934164,
+      "lon": -74.0961168036665
+    },
+    "status": "ok",
+    "battery": 27,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:56:24.172625Z"
+    },
+    "temperature": 20.43,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.655259433733511,
+      "lon": -74.09573946557808
+    },
+    "status": "error",
+    "battery": 63,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:55:24.172625Z"
+    },
+    "temperature": 24.65,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.656527573672277,
+      "lon": -74.09173538712757
+    },
+    "status": "warn",
+    "battery": 39,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:54:24.172625Z"
+    },
+    "temperature": 30.0,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.656035699566117,
+      "lon": -74.08904211498887
+    },
+    "status": "ok",
+    "battery": 88,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:53:24.172625Z"
+    },
+    "temperature": 29.85,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.654183383039724,
+      "lon": -74.09060133734646
+    },
+    "status": "ok",
+    "battery": 45,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:52:24.172625Z"
+    },
+    "temperature": 22.07,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.6601286940597975,
+      "lon": -74.09772902082231
+    },
+    "status": "ok",
+    "battery": 38,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:51:24.172625Z"
+    },
+    "temperature": 25.37,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.658182630555698,
+      "lon": -74.09781561681014
+    },
+    "status": "ok",
+    "battery": 46,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:50:24.172625Z"
+    },
+    "temperature": 20.46,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.662611681002188,
+      "lon": -74.09320743503872
+    },
+    "status": "error",
+    "battery": 80,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:49:24.172625Z"
+    },
+    "temperature": 28.88,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.657252627955741,
+      "lon": -74.08930511542727
+    },
+    "status": "ok",
+    "battery": 68,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:48:24.172625Z"
+    },
+    "temperature": 28.81,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.6590210857321965,
+      "lon": -74.08970804616176
+    },
+    "status": "error",
+    "battery": 57,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:47:24.172625Z"
+    },
+    "temperature": 22.42,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.661255841804402,
+      "lon": -74.0956350799342
+    },
+    "status": "warn",
+    "battery": 62,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:46:24.172625Z"
+    },
+    "temperature": 19.03,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.6639179162350555,
+      "lon": -74.09150457616596
+    },
+    "status": "warn",
+    "battery": 44,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:45:24.172625Z"
+    },
+    "temperature": 25.73,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.660249381160566,
+      "lon": -74.0953157173454
+    },
+    "status": "error",
+    "battery": 32,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:44:24.172625Z"
+    },
+    "temperature": 18.1,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.659480980484719,
+      "lon": -74.09650631041094
+    },
+    "status": "error",
+    "battery": 55,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:43:24.172625Z"
+    },
+    "temperature": 28.87,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.660643912514449,
+      "lon": -74.08901602644747
+    },
+    "status": "ok",
+    "battery": 80,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:42:24.172625Z"
+    },
+    "temperature": 23.22,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.6547357810320555,
+      "lon": -74.09532672463038
+    },
+    "status": "ok",
+    "battery": 94,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:41:24.172625Z"
+    },
+    "temperature": 22.91,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.6595609364386155,
+      "lon": -74.09660378190803
+    },
+    "status": "warn",
+    "battery": 93,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:40:24.172625Z"
+    },
+    "temperature": 22.82,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.659912078934734,
+      "lon": -74.09699173258605
+    },
+    "status": "warn",
+    "battery": 31,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:39:24.172625Z"
+    },
+    "temperature": 27.69,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.654638745888118,
+      "lon": -74.09299031474664
+    },
+    "status": "error",
+    "battery": 69,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:38:24.172625Z"
+    },
+    "temperature": 25.62,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.656040560969425,
+      "lon": -74.09129075074422
+    },
+    "status": "ok",
+    "battery": 76,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:37:24.172625Z"
+    },
+    "temperature": 25.93,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.65663986804493,
+      "lon": -74.09654583824394
+    },
+    "status": "warn",
+    "battery": 53,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:36:24.172625Z"
+    },
+    "temperature": 25.19,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.657687311760405,
+      "lon": -74.09587477248378
+    },
+    "status": "warn",
+    "battery": 72,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:35:24.172625Z"
+    },
+    "temperature": 23.9,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.663423833980511,
+      "lon": -74.09056655436763
+    },
+    "status": "warn",
+    "battery": 58,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:34:24.172625Z"
+    },
+    "temperature": 27.3,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.662340659363506,
+      "lon": -74.09325490930317
+    },
+    "status": "error",
+    "battery": 45,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:33:24.172625Z"
+    },
+    "temperature": 29.79,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.658138741938785,
+      "lon": -74.09124065187493
+    },
+    "status": "ok",
+    "battery": 33,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:32:24.172625Z"
+    },
+    "temperature": 27.99,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.659084265087217,
+      "lon": -74.09084783756755
+    },
+    "status": "ok",
+    "battery": 29,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:31:24.172625Z"
+    },
+    "temperature": 24.25,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.6558071194723905,
+      "lon": -74.08943885211745
+    },
+    "status": "warn",
+    "battery": 36,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:30:24.172625Z"
+    },
+    "temperature": 22.45,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.654652971430869,
+      "lon": -74.08901290911497
+    },
+    "status": "warn",
+    "battery": 82,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:29:24.172625Z"
+    },
+    "temperature": 18.95,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.6584196776298485,
+      "lon": -74.08833677796605
+    },
+    "status": "error",
+    "battery": 72,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:28:24.172625Z"
+    },
+    "temperature": 20.7,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.656834286390416,
+      "lon": -74.0955592739148
+    },
+    "status": "error",
+    "battery": 59,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:27:24.172625Z"
+    },
+    "temperature": 23.86,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.6580019933336025,
+      "lon": -74.09699341288945
+    },
+    "status": "error",
+    "battery": 42,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:26:24.172625Z"
+    },
+    "temperature": 19.43,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.657306204021264,
+      "lon": -74.09495843831806
+    },
+    "status": "error",
+    "battery": 23,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:25:24.172625Z"
+    },
+    "temperature": 29.48,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.658849179950219,
+      "lon": -74.09174665759782
+    },
+    "status": "error",
+    "battery": 97,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:24:24.172625Z"
+    },
+    "temperature": 28.17,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.655671160245129,
+      "lon": -74.09373024598148
+    },
+    "status": "error",
+    "battery": 85,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:23:24.172625Z"
+    },
+    "temperature": 21.84,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.662587966510617,
+      "lon": -74.09048312126471
+    },
+    "status": "error",
+    "battery": 83,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:22:24.172625Z"
+    },
+    "temperature": 29.0,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.657501203571747,
+      "lon": -74.09249402695862
+    },
+    "status": "ok",
+    "battery": 92,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:21:24.172625Z"
+    },
+    "temperature": 22.84,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.65548332409272,
+      "lon": -74.08920204025225
+    },
+    "status": "warn",
+    "battery": 33,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:20:24.172625Z"
+    },
+    "temperature": 22.45,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.66081798933066,
+      "lon": -74.09705799315584
+    },
+    "status": "error",
+    "battery": 45,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:19:24.172625Z"
+    },
+    "temperature": 29.75,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.659773808483969,
+      "lon": -74.08854894261314
+    },
+    "status": "error",
+    "battery": 22,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:18:24.172625Z"
+    },
+    "temperature": 26.28,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.6559376646339485,
+      "lon": -74.09312952696908
+    },
+    "status": "error",
+    "battery": 84,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:17:24.172625Z"
+    },
+    "temperature": 23.3,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.655370311245071,
+      "lon": -74.09659414167686
+    },
+    "status": "error",
+    "battery": 58,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:16:24.172625Z"
+    },
+    "temperature": 27.78,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.662554696951847,
+      "lon": -74.09040377624757
+    },
+    "status": "warn",
+    "battery": 50,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:15:24.172625Z"
+    },
+    "temperature": 27.84,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.658354965688292,
+      "lon": -74.08996635725873
+    },
+    "status": "warn",
+    "battery": 68,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:14:24.172625Z"
+    },
+    "temperature": 21.29,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.6628251512737,
+      "lon": -74.0940324582719
+    },
+    "status": "ok",
+    "battery": 88,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:13:24.172625Z"
+    },
+    "temperature": 18.72,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.65536387732447,
+      "lon": -74.09558039719417
+    },
+    "status": "warn",
+    "battery": 48,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:12:24.172625Z"
+    },
+    "temperature": 25.07,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.655847426040713,
+      "lon": -74.08995524948295
+    },
+    "status": "error",
+    "battery": 76,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:11:24.172625Z"
+    },
+    "temperature": 24.01,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.661799730399492,
+      "lon": -74.09243724528581
+    },
+    "status": "error",
+    "battery": 90,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:10:24.172625Z"
+    },
+    "temperature": 24.68,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.656889033688524,
+      "lon": -74.09404284545637
+    },
+    "status": "error",
+    "battery": 27,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:09:24.172625Z"
+    },
+    "temperature": 20.19,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.655211286256823,
+      "lon": -74.09181675887594
+    },
+    "status": "error",
+    "battery": 43,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:08:24.172625Z"
+    },
+    "temperature": 19.25,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.662966035497892,
+      "lon": -74.09641677686578
+    },
+    "status": "error",
+    "battery": 77,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:07:24.172625Z"
+    },
+    "temperature": 23.43,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.659856075131532,
+      "lon": -74.09641911675782
+    },
+    "status": "error",
+    "battery": 27,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:06:24.172625Z"
+    },
+    "temperature": 25.63,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.654920969792109,
+      "lon": -74.09795544703873
+    },
+    "status": "ok",
+    "battery": 33,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:05:24.172625Z"
+    },
+    "temperature": 24.29,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.6624432084400835,
+      "lon": -74.09122166522243
+    },
+    "status": "ok",
+    "battery": 70,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T01:04:24.172625Z"
+    },
+    "temperature": 27.79,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.654577594363284,
+      "lon": -74.08929071263856
+    },
+    "status": "warn",
+    "battery": 36,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T01:03:24.172625Z"
+    },
+    "temperature": 23.88,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.657338030243147,
+      "lon": -74.0963135786756
+    },
+    "status": "warn",
+    "battery": 24,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:02:24.172625Z"
+    },
+    "temperature": 27.97,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.662264458306343,
+      "lon": -74.09368732780557
+    },
+    "status": "error",
+    "battery": 60,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:01:24.172625Z"
+    },
+    "temperature": 29.15,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.661364075158832,
+      "lon": -74.09482294855586
+    },
+    "status": "error",
+    "battery": 78,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T01:00:24.172625Z"
+    },
+    "temperature": 26.65,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.658995277666928,
+      "lon": -74.09626917495844
+    },
+    "status": "warn",
+    "battery": 76,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:59:24.172625Z"
+    },
+    "temperature": 21.11,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.6571062914403205,
+      "lon": -74.09550016491531
+    },
+    "status": "error",
+    "battery": 34,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:58:24.172625Z"
+    },
+    "temperature": 23.97,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.662441396140661,
+      "lon": -74.091942158176
+    },
+    "status": "error",
+    "battery": 55,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T00:57:24.172625Z"
+    },
+    "temperature": 28.91,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.65447448921609,
+      "lon": -74.0948536093653
+    },
+    "status": "error",
+    "battery": 49,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:56:24.172625Z"
+    },
+    "temperature": 29.87,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.65471141575303,
+      "lon": -74.08848575295757
+    },
+    "status": "error",
+    "battery": 68,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:55:24.172625Z"
+    },
+    "temperature": 18.88,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.656128767708916,
+      "lon": -74.09268638626284
+    },
+    "status": "error",
+    "battery": 42,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T00:54:24.172625Z"
+    },
+    "temperature": 20.69,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.658841102962796,
+      "lon": -74.09494207021714
+    },
+    "status": "warn",
+    "battery": 78,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:53:24.172625Z"
+    },
+    "temperature": 24.05,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.654505001562549,
+      "lon": -74.09134213051301
+    },
+    "status": "ok",
+    "battery": 37,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:52:24.172625Z"
+    },
+    "temperature": 28.59,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.65726355232229,
+      "lon": -74.09171351096717
+    },
+    "status": "ok",
+    "battery": 98,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:51:24.172625Z"
+    },
+    "temperature": 18.45,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.656897340809451,
+      "lon": -74.09673349125165
+    },
+    "status": "ok",
+    "battery": 27,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T00:50:24.172625Z"
+    },
+    "temperature": 19.94,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.663229992075512,
+      "lon": -74.09439844718317
+    },
+    "status": "ok",
+    "battery": 100,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:49:24.172625Z"
+    },
+    "temperature": 22.53,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.662781194487226,
+      "lon": -74.08981967389403
+    },
+    "status": "warn",
+    "battery": 95,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:48:24.172625Z"
+    },
+    "temperature": 24.44,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.661517858743029,
+      "lon": -74.09239921704004
+    },
+    "status": "error",
+    "battery": 53,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:47:24.172625Z"
+    },
+    "temperature": 29.74,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.663223787593964,
+      "lon": -74.09627401195141
+    },
+    "status": "error",
+    "battery": 96,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T00:46:24.172625Z"
+    },
+    "temperature": 22.63,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.65648307779334,
+      "lon": -74.0953660202296
+    },
+    "status": "warn",
+    "battery": 54,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:45:24.172625Z"
+    },
+    "temperature": 23.17,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.656171184843232,
+      "lon": -74.09668310299274
+    },
+    "status": "warn",
+    "battery": 39,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:44:24.172625Z"
+    },
+    "temperature": 24.46,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.662137651331892,
+      "lon": -74.09335306950555
+    },
+    "status": "error",
+    "battery": 62,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:43:24.172625Z"
+    },
+    "temperature": 29.46,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.655273670442814,
+      "lon": -74.09727873789747
+    },
+    "status": "ok",
+    "battery": 60,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:42:24.172625Z"
+    },
+    "temperature": 25.38,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.657623479876872,
+      "lon": -74.09051521307782
+    },
+    "status": "error",
+    "battery": 31,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:41:24.172625Z"
+    },
+    "temperature": 29.36,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.6603237238194035,
+      "lon": -74.09396717620626
+    },
+    "status": "error",
+    "battery": 48,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:40:24.172625Z"
+    },
+    "temperature": 25.98,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.659666193684962,
+      "lon": -74.09095171814205
+    },
+    "status": "error",
+    "battery": 97,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T00:39:24.172625Z"
+    },
+    "temperature": 28.98,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.655915138257019,
+      "lon": -74.09063655131345
+    },
+    "status": "ok",
+    "battery": 74,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:38:24.172625Z"
+    },
+    "temperature": 23.75,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.66351696057847,
+      "lon": -74.09769751293268
+    },
+    "status": "warn",
+    "battery": 94,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:37:24.172625Z"
+    },
+    "temperature": 29.47,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.662233312660878,
+      "lon": -74.08849068387485
+    },
+    "status": "warn",
+    "battery": 71,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:36:24.172625Z"
+    },
+    "temperature": 27.92,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.657348723445963,
+      "lon": -74.09645572482043
+    },
+    "status": "error",
+    "battery": 100,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:35:24.172625Z"
+    },
+    "temperature": 23.24,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.655766051005012,
+      "lon": -74.09049689562585
+    },
+    "status": "error",
+    "battery": 48,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T00:34:24.172625Z"
+    },
+    "temperature": 25.1,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.661447101723706,
+      "lon": -74.09731654631025
+    },
+    "status": "error",
+    "battery": 58,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:33:24.172625Z"
+    },
+    "temperature": 25.71,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.655480071984804,
+      "lon": -74.092739634142
+    },
+    "status": "error",
+    "battery": 29,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:32:24.172625Z"
+    },
+    "temperature": 25.43,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.660866279437415,
+      "lon": -74.09208022691705
+    },
+    "status": "error",
+    "battery": 53,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:31:24.172625Z"
+    },
+    "temperature": 25.23,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.657170870399063,
+      "lon": -74.0943302602171
+    },
+    "status": "error",
+    "battery": 91,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T00:30:24.172625Z"
+    },
+    "temperature": 22.8,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.66248504469182,
+      "lon": -74.09480360246559
+    },
+    "status": "error",
+    "battery": 83,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T00:29:24.172625Z"
+    },
+    "temperature": 24.5,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.659851842931105,
+      "lon": -74.09686458378543
+    },
+    "status": "warn",
+    "battery": 49,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-002",
+    "timestamp": {
+      "$date": "2025-11-18T00:28:24.172625Z"
+    },
+    "temperature": 22.71,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.663499077241571,
+      "lon": -74.09135629731716
+    },
+    "status": "ok",
+    "battery": 88,
+    "metadata": {
+      "firmware": "v1.3.0",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:27:24.172625Z"
+    },
+    "temperature": 24.08,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.655134229979846,
+      "lon": -74.09558852733919
+    },
+    "status": "warn",
+    "battery": 52,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:26:24.172625Z"
+    },
+    "temperature": 19.0,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.654642342666777,
+      "lon": -74.08934404626902
+    },
+    "status": "ok",
+    "battery": 90,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:25:24.172625Z"
+    },
+    "temperature": 24.54,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 1",
+      "lat": 4.663026096574155,
+      "lon": -74.09621309522723
+    },
+    "status": "ok",
+    "battery": 97,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:24:24.172625Z"
+    },
+    "temperature": 20.94,
+    "unit": "C",
+    "location": {
+      "room": "Laboratorio 2",
+      "lat": 4.65973639163778,
+      "lon": -74.09050398803087
+    },
+    "status": "warn",
+    "battery": 59,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:23:24.172625Z"
+    },
+    "temperature": 18.58,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.66338935966563,
+      "lon": -74.0941814756196
+    },
+    "status": "warn",
+    "battery": 36,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:22:24.172625Z"
+    },
+    "temperature": 28.9,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.663699076754169,
+      "lon": -74.0904050712816
+    },
+    "status": "warn",
+    "battery": 81,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:21:24.172625Z"
+    },
+    "temperature": 21.64,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.661316267336974,
+      "lon": -74.09209911707583
+    },
+    "status": "error",
+    "battery": 38,
+    "metadata": {
+      "firmware": "v1.2.3",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-003",
+    "timestamp": {
+      "$date": "2025-11-18T00:20:24.172625Z"
+    },
+    "temperature": 29.15,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.656651028744436,
+      "lon": -74.09783668859986
+    },
+    "status": "error",
+    "battery": 71,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  },
+  {
+    "sensorId": "sensor-001",
+    "timestamp": {
+      "$date": "2025-11-18T00:19:24.172625Z"
+    },
+    "temperature": 23.7,
+    "unit": "C",
+    "location": {
+      "room": "Oficina",
+      "lat": 4.6573931394493835,
+      "lon": -74.09759359985794
+    },
+    "status": "ok",
+    "battery": 36,
+    "metadata": {
+      "firmware": "v1.2.4",
+      "sampleRateSeconds": 60
+    }
+  }
+]
