@@ -1,0 +1,16 @@
+[{
+  "_id": "sensor-004",
+  "totalLecturas": 2
+},
+{
+  "_id": "sensor-002",
+  "totalLecturas": 28
+},
+{
+  "_id": "sensor-001",
+  "totalLecturas": 41
+},
+{
+  "_id": "sensor-003",
+  "totalLecturas": 32
+}]
