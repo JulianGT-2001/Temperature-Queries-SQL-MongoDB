@@ -1,0 +1,181 @@
+// Resultados del siguiente query
+/*db.getCollection('sensor').find({
+  temperature: { $gt: 25 },
+  status: 'warn'
+});*/
+[{
+  "_id": {
+    "$oid": "691bd2d924387e4a17c37862"
+  },
+  "sensorId": "sensor-003",
+  "timestamp": {
+    "$date": "2025-11-18T01:37:24.172Z"
+  },
+  "temperature": 25.93,
+  "unit": "C",
+  "location": {
+    "room": "Laboratorio 1",
+    "lat": 4.65663986804493,
+    "lon": -74.09654583824394
+  },
+  "status": "warn",
+  "battery": 53,
+  "metadata": {
+    "firmware": "v1.2.4",
+    "sampleRateSeconds": 60
+  }
+},
+{
+  "_id": {
+    "$oid": "691bd2d924387e4a17c37863"
+  },
+  "sensorId": "sensor-002",
+  "timestamp": {
+    "$date": "2025-11-18T01:36:24.172Z"
+  },
+  "temperature": 25.19,
+  "unit": "C",
+  "location": {
+    "room": "Laboratorio 1",
+    "lat": 4.657687311760405,
+    "lon": -74.09587477248378
+  },
+  "status": "warn",
+  "battery": 72,
+  "metadata": {
+    "firmware": "v1.3.0",
+    "sampleRateSeconds": 60
+  }
+},
+{
+  "_id": {
+    "$oid": "691bd2d924387e4a17c37877"
+  },
+  "sensorId": "sensor-002",
+  "timestamp": {
+    "$date": "2025-11-18T01:16:24.172Z"
+  },
+  "temperature": 27.78,
+  "unit": "C",
+  "location": {
+    "room": "Laboratorio 1",
+    "lat": 4.662554696951847,
+    "lon": -74.09040377624757
+  },
+  "status": "warn",
+  "battery": 50,
+  "metadata": {
+    "firmware": "v1.2.4",
+    "sampleRateSeconds": 60
+  }
+},
+{
+  "_id": {
+    "$oid": "691bd2d924387e4a17c37878"
+  },
+  "sensorId": "sensor-003",
+  "timestamp": {
+    "$date": "2025-11-18T01:15:24.172Z"
+  },
+  "temperature": 27.84,
+  "unit": "C",
+  "location": {
+    "room": "Oficina",
+    "lat": 4.658354965688292,
+    "lon": -74.08996635725873
+  },
+  "status": "warn",
+  "battery": 68,
+  "metadata": {
+    "firmware": "v1.3.0",
+    "sampleRateSeconds": 60
+  }
+},
+{
+  "_id": {
+    "$oid": "691bd2d924387e4a17c37883"
+  },
+  "sensorId": "sensor-002",
+  "timestamp": {
+    "$date": "2025-11-18T01:04:24.172Z"
+  },
+  "temperature": 27.79,
+  "unit": "C",
+  "location": {
+    "room": "Laboratorio 2",
+    "lat": 4.654577594363284,
+    "lon": -74.08929071263856
+  },
+  "status": "warn",
+  "battery": 100,
+  "metadata": {
+    "firmware": "v1.3.0",
+    "sampleRateSeconds": 60
+  }
+},
+{
+  "_id": {
+    "$oid": "691bd2d924387e4a17c37887"
+  },
+  "sensorId": "sensor-003",
+  "timestamp": {
+    "$date": "2025-11-18T01:00:24.172Z"
+  },
+  "temperature": 26.65,
+  "unit": "C",
+  "location": {
+    "room": "Oficina",
+    "lat": 4.658995277666928,
+    "lon": -74.09626917495844
+  },
+  "status": "warn",
+  "battery": 76,
+  "metadata": {
+    "firmware": "v1.2.4",
+    "sampleRateSeconds": 60
+  }
+},
+{
+  "_id": {
+    "$oid": "691bd2d924387e4a17c3789e"
+  },
+  "sensorId": "sensor-003",
+  "timestamp": {
+    "$date": "2025-11-18T00:37:24.172Z"
+  },
+  "temperature": 29.47,
+  "unit": "C",
+  "location": {
+    "room": "Laboratorio 1",
+    "lat": 4.662233312660878,
+    "lon": -74.08849068387485
+  },
+  "status": "warn",
+  "battery": 71,
+  "metadata": {
+    "firmware": "v1.2.4",
+    "sampleRateSeconds": 60
+  }
+},
+{
+  "_id": {
+    "$oid": "691bd2d924387e4a17c378ad"
+  },
+  "sensorId": "sensor-003",
+  "timestamp": {
+    "$date": "2025-11-18T00:22:24.172Z"
+  },
+  "temperature": 28.9,
+  "unit": "C",
+  "location": {
+    "room": "Oficina",
+    "lat": 4.663699076754169,
+    "lon": -74.0904050712816
+  },
+  "status": "warn",
+  "battery": 81,
+  "metadata": {
+    "firmware": "v1.2.4",
+    "sampleRateSeconds": 60
+  }
+}]
